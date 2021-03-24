@@ -3,12 +3,10 @@
   width: 900px;
 }
 
-img {
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
+.header{
+  width: 100%;
 }
+
 
 h1 {
 font-family: Helvetica,  sans-serif;
@@ -21,26 +19,33 @@ font-size: 2em;
 font-size: italic;
 font-style: bold;
 text-align:center;
-text-align: justify;
 margin-left: 70px;
 margin-right: 70px;
 width: 70px;
 
 }
 
+h3{
+font-family: Georgia, serif;
+font-size: 25px;
+font-size: italic;
+font-style: bold;
+
+}
+
 #image1 {
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: Georgia, serif;
   font-size: 13px;
   font-style: bold;
   font-weight:bold;
   text-align: center;
+}
+
+.image1{
+  width: 100%;
 }
 
 #image2 {
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: Georgia, serif;
   font-size: 13px;
   font-style: bold;
@@ -49,20 +54,25 @@ width: 70px;
 
 }
 
+.image2{
+  width: 100%;
+}
+
 #image3 {
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: Georgia, serif;
   font-size: 13px;
   font-style: bold;
   font-weight:bold;
   text-align: center;
+
+}
+
+.image3{
+width: 100%;
 
 }
 
 #graphic {
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: Georgia, serif;
   font-size: 13px;
   font-style: bold;
@@ -70,6 +80,12 @@ width: 70px;
   text-align: center;
 
 }
+
+.gif{
+  width: 100%;
+}
+
+
 
 #byline {
 font-family: Helvetica, sans-serif;
