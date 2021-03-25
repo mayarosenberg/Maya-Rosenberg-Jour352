@@ -1,15 +1,18 @@
 #content{
   align: center;
+  margin: 0 auto;
+  width: 900px;
 }
 
 .header{
   width: 100%;
+  margin-bottom: -20%;
 }
 
 
 h1{
   font-family: Georgia,  sans-serif;
-  font-size: 30px;
+  font-size: 32px;
   text-align: left;
 
 }
@@ -26,8 +29,7 @@ h3 {
   text-align: left;
 }
 
-/* This is my CSS midterm project,
-it's about Megan Rapinoe */
+/* end of heading elements */
 
 
 p {
@@ -54,8 +56,61 @@ p {
   font-style: bold;
   font-weight: bold;
   text-align: center;
+}
+
+.image1{
   width: 100%;
 }
+
+#image2 {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image2 {
+  width: 100%;
+}
+
+#image3 {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image3 {
+  width: 100%;
+}
+
+
+#image4 {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image4 {
+  width: 100%;
+}
+
+#image5 {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image5 {
+  width: 70%;
+}
+
 
 
 
