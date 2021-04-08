@@ -1,12 +1,12 @@
 body{
   font-family: Arial;
   color: #444
-} 
+}
 h1
 .uppercase{
   font-family: Arial;
   font-size: 3em;
-  color: #33485e
+  color: #33485e;
   text-transform: capitalize;
   text-align: center;
 
