@@ -1,4 +1,15 @@
-.img-fluid {
-  max-width: 100%;
-  height: auto;
+.jumbotron{
+  background-color: #60985D
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+h2 {
+  font-family: Helvetica sans-serif;
+  font-size: 20px;
+  text-align: left;
 }
