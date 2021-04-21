@@ -1,6 +1,4 @@
-.jumbotron{
-  background-color: #60985D
-}
+
 
 img {
   display: block;
@@ -9,7 +7,15 @@ img {
     width: 100%;
 
 h2 {
-  font-family: Helvetica sans-serif;
+  font-family: 'Raleway', sans-serif;;
   font-size: 20px;
   text-align: left;
+}
+
+.text-info{
+  font-family: 'Raleway', sans-serif;
+}
+
+.card-body{
+  font-family: 'Raleway', sans-serif;
 }
