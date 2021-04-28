@@ -19,3 +19,9 @@ h2 {
 .card-body{
   font-family: 'Raleway', sans-serif;
 }
+
+.job-title{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
